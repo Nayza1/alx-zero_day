@@ -1,0 +1,10 @@
+
+
+
+cat > alxindex.jsecho "ALX"^Cindcat > alx
+index.js
+echo "ALX"
+^C
+cat > alxindex.jsecho "ALX"^C
+
+
